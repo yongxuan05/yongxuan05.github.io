@@ -379,7 +379,7 @@ margin-bottom: 5px;
 
 .portfolio{
 padding-top: 120px;
-height: 300vh;
+height: 280vh;
 }
 
 .portfolio .section-title h2{
@@ -390,14 +390,6 @@ text-transform:uppercase;
 letter-spacing: 2px;
 }
 
-.portfolio .section-title p {
-font-weight:normal;
-font-size: 17px;
-color: #515151;
-margin-top: 20px;
-margin-bottom: 40px;
-text-align: center;
-}
 
 #portfolioimg .row img{
 margin: 0%;
